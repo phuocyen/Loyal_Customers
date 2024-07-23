@@ -1,0 +1,92 @@
+[
+  {
+      "MaNV": "NV001",
+      "TenNV": "Phước Yến",
+      "ChucVu": "Nhân viên thu ngân",
+      "User": "yen",
+      "Pass": "123",
+      "SoDT": "0912345678",
+      "DiaChi": "Nha Trang"
+    },
+  {
+      "MaNV": "NV002",
+      "TenNV": "Nguyễn Thị My",
+      "ChucVu": "Nhân viên thu ngân",
+      "User": "cathy123",
+      "Pass": "456",
+      "SoDT": "0987123456",
+      "DiaChi": "Đà Nẵng"
+    },
+  {
+      "MaNV": "NV003",
+      "TenNV": "Hồ Ngọc Bích",
+      "ChucVu": "Nhân viên thu ngân",
+      "User": "ellen123",
+      "Pass": "789",
+      "SoDT": "0934567890",
+      "DiaChi": "Hà Nội"
+    },
+   {
+      "MaNV": "NV004",
+      "TenNV": "Võ Hương Quỳnh",
+      "ChucVu": "Nhân viên thu ngân",
+      "User": "quynh",
+      "Pass": "789",
+      "SoDT": "0711993377",
+      "DiaChi": "Hà Nội"
+    },
+   {
+      "MaNV": "NV005",
+      "TenNV": "Cao Ngọc Bảo Trân",
+      "ChucVu": "Nhân viên thu ngân",
+      "User": "tran",
+      "Pass": "789",
+      "SoDT": "0288115592",
+      "DiaChi": "Hà Nội"
+    },
+  {
+      "MaNV": "NV006",
+      "TenNV": "Lê Huỳnh Phúc",
+      "ChucVu": "Quản lý",
+      "User": "phuc123",
+      "Pass": "123",
+      "SoDT": "0987123456",
+      "DiaChi": "Hà Nội"
+    },
+  {
+      "MaNV": "NV007",
+      "TenNV": "Trương Thành Trung",
+      "ChucVu": "Quản lý",
+      "User": "trung",
+      "Pass": "456",
+      "SoDT": "0912345578",
+      "DiaChi": "Hà Nội"
+    },
+  {
+      "MaNV": "NV008",
+      "TenNV": "Mai Nguyễn Phước Yến",
+      "ChucVu": "Nhân viên thu ngân",
+      "User": "yen123",
+      "Pass": "123",
+      "SoDT": "0912345678",
+      "DiaChi": "Nha Trang"
+    },
+  {
+      "MaNV": "NV009",
+      "TenNV": "Trương Nhật Phong",
+      "ChucVu": "Quản lý",
+      "User": "phong",
+      "Pass": "123",
+      "SoDT": "0922334455",
+      "DiaChi": "Nha Trang"
+    },
+  {
+      "MaNV": "NV010",
+      "TenNV": "Phạm Văn Giang",
+      "ChucVu": "Nhân viên thu ngân",
+      "User": "giang",
+      "Pass": "456",
+      "SoDT": "0765432109",
+      "DiaChi": "Hà Nội"
+    }
+]

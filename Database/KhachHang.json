@@ -1,0 +1,162 @@
+[
+  {
+    "MaKH": "KH001",
+    "HoTen": "Nguyễn Văn A",
+    "SDT": "0123456780",
+    "NgaySinh": "1990-01-01",
+    "GioiTinh": "Nam",
+    "DiaChi": "123 Đường ABC, Quận XYZ, Thành phố HCM"
+  },
+  {
+    "MaKH": "KH002",
+    "HoTen": "Trần Thị Bình",
+    "SDT": "0987654321",
+    "NgaySinh": "1985-05-15",
+    "GioiTinh": "Nữ",
+    "DiaChi": "456 Đường XYZ, Quận Hoàn Kiếm, Thành phố Hà Nội"
+  },
+  {
+    "MaKH": "KH003",
+    "HoTen": "Lê Văn Minh",
+    "SDT": "0934567892",
+    "NgaySinh": "1988-11-20",
+    "GioiTinh": "Nam",
+    "DiaChi": "789 Đường Nguyễn Du, Quận 1, Thành phố HCM"
+  },
+  {
+    "HoTen": "Nguyễn Thị Duyên",
+    "SDT": "0765432103",
+    "NgaySinh": "1982-04-25",
+    "GioiTinh": "Nữ",
+    "DiaChi": "567 Đường LMN, Quận Hoàng Mai, Thành phố HCM",
+    "MaKH": "KH004"
+  },
+  {
+    "MaKH": "KH005",
+    "HoTen": "Trần Văn Hùng",
+    "SDT": "0876543214",
+    "NgaySinh": "1980-03-10",
+    "GioiTinh": "Nam",
+    "DiaChi": "678 Đường DEF, Quận 3, Thành phố HCM"
+  },
+  {
+    "MaKH": "KH006",
+    "HoTen": "Phạm Văn Khôi",
+    "SDT": "0987123455",
+    "NgaySinh": "1983-09-20",
+    "GioiTinh": "Nam",
+    "DiaChi": "789 Đường GHI, Quận Tây Hồ, Thành phố Hà Nội"
+  },
+  {
+    "MaKH": "KH007",
+    "HoTen": "Nguyễn Thị My",
+    "SDT": "0912345676",
+    "NgaySinh": "1975-12-05",
+    "GioiTinh": "Nữ",
+    "DiaChi": "890 Đường Nguyễn Du, Quận 1, Thành phố HCM"
+  },
+  {
+    "MaKH": "KH008",
+    "HoTen": "Trần Thị Linh",
+    "SDT": "0876543217",
+    "NgaySinh": "1985-05-15",
+    "GioiTinh": "Nữ",
+    "DiaChi": "678 Đường XYZ, Quận Hoàn Kiếm, Thành phố Hà Nội"
+  },
+  {
+    "MaKH": "KH009",
+    "HoTen": "Lê Văn Nam",
+    "SDT": "0934567898",
+    "NgaySinh": "1988-11-20",
+    "GioiTinh": "Nam",
+    "DiaChi": "789 Đường MNO, Quận PQR, Thành phố HCM"
+  },
+  {
+    "MaKH": "KH010",
+    "HoTen": "Nguyễn Thị Lan",
+    "SDT": "0765432109",
+    "NgaySinh": "1992-07-12",
+    "GioiTinh": "Nữ",
+    "DiaChi": "456 Đường JKL, Quận Đống Đa, Thành phố Hà Nội"
+  },
+  {
+    "MaKH": "KH011",
+    "HoTen": "Trần Văn Khôi",
+    "SDT": "0987654311",
+    "NgaySinh": "1993-12-10",
+    "GioiTinh": "Nữ",
+    "DiaChi": "643 Đường PQR, Quận 10, Thành phố HCM"
+  },
+  {
+    "MaKH": "KH012",
+    "HoTen": "Trần Văn Tuấn",
+    "SDT": "0983654322",
+    "NgaySinh": "1993-12-10",
+    "GioiTinh": "Nam",
+    "DiaChi": "115 Đường PQR, Quận 3, Thành phố HCM"
+  },
+  {
+    "MaKH": "KH013",
+    "HoTen": "Huỳnh Thị Cúc",
+    "SDT": "0987654333",
+    "NgaySinh": "2002-06-10",
+    "GioiTinh": "Nam",
+    "DiaChi": "6 Đường PQR, Quận Gò Vấp, Thành phố HCM"
+  },
+  {
+    "MaKH": "KH014",
+    "HoTen": "Lê Tuấn Anh",
+    "SDT": "0987774344",
+    "NgaySinh": "1994-09-12",
+    "GioiTinh": "Nam",
+    "DiaChi": "2 Đường PQR, Quận 10, Thành phố HCM"
+  },
+  {
+    "MaKH": "KH015",
+    "HoTen": "Mai Xuân Vinh",
+    "SDT": "0984454355",
+    "NgaySinh": "1993-05-25",
+    "GioiTinh": "Nam",
+    "DiaChi": "42 Đường PQR, Quận Bình Thạnh, Thành phố HCM"
+  },
+  {
+    "MaKH": "KH016",
+    "HoTen": "Võ Hương Quỳnh",
+    "SDT": "0987114366",
+    "NgaySinh": "1999-07-13",
+    "GioiTinh": "Nữ",
+    "DiaChi": "23 Đường PQR, Quận 7, Thành phố HCM"
+  },
+  {
+    "MaKH": "KH017",
+    "HoTen": "Đoàn Gia Chuỷ",
+    "SDT": "0987654377",
+    "NgaySinh": "1998-04-10",
+    "GioiTinh": "Nam",
+    "DiaChi": "20 Đường PQR, Quận Tân Bình, Thành phố HCM"
+  },
+  {
+    "MaKH": "KH018",
+    "HoTen": "Thượng Quan Thiển",
+    "SDT": "0984454388",
+    "NgaySinh": "1999-09-27",
+    "GioiTinh": "Nữ",
+    "DiaChi": "11/5 Đường PQR, Quận Bình Thạnh, Thành phố HCM"
+  },
+  {
+    "MaKH": "KH019",
+    "HoTen": "Lê Tô Tô",
+    "SDT": "0987622399",
+    "NgaySinh": "1995-10-10",
+    "GioiTinh": "Nữ",
+    "DiaChi": "543 Đường PQR, Quận Tân Bình, Thành phố HCM"
+  },
+  {
+    "MaKH": "KH020",
+    "HoTen": "Cao Ngọc Bảo Trân",
+    "SDT": "0987657777",
+    "NgaySinh": "2000-03-18",
+    "GioiTinh": "Nữ",
+    "DiaChi": "765 Đường PQR, Quận Bình Tân, Thành phố HCM"
+  }
+]

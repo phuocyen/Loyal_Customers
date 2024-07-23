@@ -1,0 +1,228 @@
+[
+   {
+            "MaSP": "SP001",
+            "TenSP": "Máy giặt Toshiba Inverter 10.5 kg TW-BK115G4V(MG)",
+            "DonViTinh":"Cái",
+            "SoLuongTon": 100,
+            "DonGia": 15000000
+        },
+        {
+            "MaSP": "SP003",
+            "TenSP": "Máy giặt Toshiba Inverter 13 kg ",
+          "DonViTinh":"Cái",
+            "SoLuongTon": 100,
+            "DonGia": 10200000
+        },
+  {
+            "MaSP": "SP002",
+            "TenSP": "Máy giặt Hitachi Inverter cửa trước  ",
+            "DonViTinh":"Cái",
+            "SoLuongTon": 100,
+            "DonGia": 9900000
+        },
+        {
+            "MaSP": "SP004",
+            "TenSP": "Máy giặt Beko Inverter 8kg WCV8614XB0STS",
+          "DonViTinh":"Cái",
+            "SoLuongTon": 100,
+            "DonGia": 6500000
+        },
+  {
+            "MaSP": "SP007",
+            "TenSP": "Máy giặt Beko 9kg WCV9614XB0STS",
+            "DonViTinh":"Cái",
+            "SoLuongTon": 100,
+            "DonGia": 7500000
+        },
+        {
+            "MaSP": "SP008",
+            "TenSP": "Máy giặt Hitachi 25kg SF-250ZFVAD SS",
+          "DonViTinh":"Cái",
+            "SoLuongTon": 100,
+            "DonGia": 22000000
+        },
+      {
+            "MaSP": "SP009",
+            "TenSP": "Máy giặt cửa trên Panasonic 8,2 kg NA-F82Y01DRV",
+          "DonViTinh":"Cái",
+            "SoLuong": 3,
+            "DonGia": 5890000
+        },
+      {
+            "MaSP": "SP010",
+            "TenSP": "Máy giặt Hitachi 10kg BD-100GV",
+          "DonViTinh":"Cái",
+            "SoLuongTon": 100,
+            "DonGia": 17500000
+        },
+      
+      {
+            "MaSP": "SP011",
+            "TenSP": "Điều hòa Panasonic Inverter 1 HP",
+          "DonViTinh":"Cái",
+            "SoLuongTon": 100,
+            "DonGia": 14500000
+        },
+ {
+            "MaSP": "SP012",
+            "TenSP": "Điều hòa Panasonic Inverter 2 HP",
+          "DonViTinh":"Cái",
+            "SoLuongTon": 100,
+            "DonGia": 26500000
+        },
+ {
+            "MaSP": "SP013",
+            "TenSP": "Điều Hòa Daikin Inverter 1HP",
+          "DonViTinh":"Cái",
+            "SoLuongTon": 100,
+            "DonGia": 12500000
+        },
+ {
+            "MaSP": "SP014",
+            "TenSP": " Điều hòa Toshiba Inverter 1.5 HP",
+          "DonViTinh":"Cái",
+            "SoLuongTon": 100,
+            "DonGia": 1500000
+        },
+ {
+            "MaSP": "SP015",
+            "TenSP": "Điều hòa Panasonic Inverter 1.5 HP",
+          "DonViTinh":"Cái",
+            "SoLuongTon": 100,
+            "DonGia": 700000
+        },
+ {
+            "MaSP": "SP016",
+            "TenSP": "Điều hòa Samsung Inverter 2 HP",
+          "DonViTinh":"Cái",
+            "SoLuongTon": 100,
+            "DonGia": 480000
+        },
+ {
+            "MaSP": "SP017",
+            "TenSP": "Điều hòa Daikin Inverter 9000 BTU",
+          "DonViTinh":"Cái",
+            "SoLuongTon": 100,
+            "DonGia": 380000
+        },
+ {
+            "MaSP": "SP018",
+            "TenSP": "Điều hòa Panasonic Inverter 9000",
+          "DonViTinh":"Cái",
+            "SoLuongTon": 100,
+            "DonGia": 350000
+        },
+ {
+            "MaSP": "SP019",
+            "TenSP": "Tủ lạnh Beko ngăn đá trên 401 lít",
+          "DonViTinh":"Cái",
+            "SoLuongTon": 100,
+            "DonGia": 19730000
+        },
+ {
+            "MaSP": "SP020",
+            "TenSP": "Tủ lạnh Toshiba ngăn đá trên 253 lít",
+          "DonViTinh":"Cái",
+            "SoLuongTon": 100,
+            "DonGia": 35600000
+        },
+        {
+          "MaSP": "SP021",
+          "TenSP": "Tủ lạnh Beko ngăn đá trên 231 lít",
+        "DonViTinh":"Cái",
+          "SoLuongTon": 100,
+          "DonGia": 54980000
+      },
+      {
+        "MaSP": "SP022",
+        "TenSP": "Tủ lạnh Beko ngăn đá trên 401 lít",
+      "DonViTinh":"Cái",
+        "SoLuongTon": 100,
+        "DonGia": 9800000
+    },
+    {
+      "MaSP": "SP023",
+      "TenSP": "Tủ lạnh Samsung Bespoke",
+    "DonViTinh":"Cái",
+      "SoLuongTon": 100,
+      "DonGia": 9900000
+  },
+  {
+    "MaSP": "SP024",
+    "TenSP": "Tủ Lạnh Samsung Optimal Fresh+",
+  "DonViTinh":"Cái",
+    "SoLuongTon": 100,
+    "DonGia": 5700000
+},
+{
+  "MaSP": "SP025",
+  "TenSP": "Tủ lạnh Samsung 406 lít",
+"DonViTinh":"Cái",
+  "SoLuongTon": 100,
+  "DonGia": 6900000
+},
+{
+  "MaSP": "SP026",
+  "TenSP": "Tủ Lạnh Samsung 4 Cửa Beverage",
+"DonViTinh":"Cái",
+  "SoLuongTon": 100,
+  "DonGia": 5000000
+},
+{
+  "MaSP": "SP027",
+  "TenSP": "Tủ lạnh thông minh Toshiba GR",
+"DonViTinh":"Cái",
+  "SoLuongTon": 100,
+  "DonGia": 5600000
+},
+{
+  "MaSP": "SP028",
+  "TenSP": "Tủ lạnh Panasonic Inverter 255 lít",
+"DonViTinh":"Cái",
+  "SoLuongTon": 100,
+  "DonGia": 87900000
+},
+{
+  "MaSP": "SP029",
+  "TenSP": "Smart Tivi Samsung 50 inch QLED",
+"DonViTinh":"Cái",
+  "SoLuongTon": 100,
+  "DonGia": 8400000
+},
+{
+  "MaSP": "SP030",
+  "TenSP": "Smart Tivi Samsung 55 inch QLED",
+"DonViTinh":"Cái",
+  "SoLuongTon": 100,
+  "DonGia": 23400000
+},
+{
+  "MaSP": "SP031",
+  "TenSP": "Xiaomi Google Tivi 4K 65 in",
+"DonViTinh":"Cái",
+  "SoLuongTon": 100,
+  "DonGia": 54900000
+},
+{
+  "MaSP": "SP032",
+  "TenSP": "Smart Tivi Samsung 98 in",
+"DonViTinh":"Cái",
+  "SoLuongTon": 100,
+  "DonGia": 5400000
+},
+{
+  "MaSP": "SP033",
+  "TenSP": "Xiaomi Google Tivi 4K 43 inch 43A",
+"DonViTinh":"Cái",
+  "SoLuongTon": 100,
+  "DonGia": 5400000
+},
+{
+  "MaSP": "SP034",
+  "TenSP": "Smart Tivi Samsung 75 inch QLED",
+"DonViTinh":"Cái",
+  "SoLuongTon": 100,
+  "DonGia": 23100000
+}
+
+]

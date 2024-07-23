@@ -1,0 +1,118 @@
+E:\TaiLieu\NoSQL\KHTT\KHTT\obj\Debug\KHTT.csproj.AssemblyReference.cache
+E:\TaiLieu\NoSQL\KHTT\KHTT\obj\Debug\KHTT.csproj.SuggestedBindingRedirects.cache
+E:\TaiLieu\NoSQL\KHTT\KHTT\obj\Debug\KHTT.exe.config
+E:\TaiLieu\NoSQL\KHTT\KHTT\obj\Debug\KHTT.Properties.Resources.resources
+E:\TaiLieu\NoSQL\KHTT\KHTT\obj\Debug\KHTT.SanPham.resources
+E:\TaiLieu\NoSQL\KHTT\KHTT\obj\Debug\KHTT.csproj.GenerateResource.cache
+E:\TaiLieu\NoSQL\KHTT\KHTT\obj\Debug\KHTT.csproj.CoreCompileInputs.cache
+E:\TaiLieu\NoSQL\KHTT\KHTT\bin\Debug\mongocrypt.dll
+E:\TaiLieu\NoSQL\KHTT\KHTT\bin\Debug\KHTT.exe.config
+E:\TaiLieu\NoSQL\KHTT\KHTT\bin\Debug\KHTT.exe
+E:\TaiLieu\NoSQL\KHTT\KHTT\bin\Debug\KHTT.pdb
+E:\TaiLieu\NoSQL\KHTT\KHTT\bin\Debug\AWSSDK.Core.dll
+E:\TaiLieu\NoSQL\KHTT\KHTT\bin\Debug\AWSSDK.SecurityToken.dll
+E:\TaiLieu\NoSQL\KHTT\KHTT\bin\Debug\DnsClient.dll
+E:\TaiLieu\NoSQL\KHTT\KHTT\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\TaiLieu\NoSQL\KHTT\KHTT\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\TaiLieu\NoSQL\KHTT\KHTT\bin\Debug\Microsoft.Win32.Registry.dll
+E:\TaiLieu\NoSQL\KHTT\KHTT\bin\Debug\MongoDB.Bson.dll
+E:\TaiLieu\NoSQL\KHTT\KHTT\bin\Debug\MongoDB.Driver.Core.dll
+E:\TaiLieu\NoSQL\KHTT\KHTT\bin\Debug\MongoDB.Driver.dll
+E:\TaiLieu\NoSQL\KHTT\KHTT\bin\Debug\MongoDB.Driver.Legacy.dll
+E:\TaiLieu\NoSQL\KHTT\KHTT\bin\Debug\MongoDB.Libmongocrypt.dll
+E:\TaiLieu\NoSQL\KHTT\KHTT\bin\Debug\SharpCompress.dll
+E:\TaiLieu\NoSQL\KHTT\KHTT\bin\Debug\Snappier.dll
+E:\TaiLieu\NoSQL\KHTT\KHTT\bin\Debug\System.Buffers.dll
+E:\TaiLieu\NoSQL\KHTT\KHTT\bin\Debug\System.Memory.dll
+E:\TaiLieu\NoSQL\KHTT\KHTT\bin\Debug\System.Numerics.Vectors.dll
+E:\TaiLieu\NoSQL\KHTT\KHTT\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\TaiLieu\NoSQL\KHTT\KHTT\bin\Debug\System.Security.AccessControl.dll
+E:\TaiLieu\NoSQL\KHTT\KHTT\bin\Debug\System.Security.Principal.Windows.dll
+E:\TaiLieu\NoSQL\KHTT\KHTT\bin\Debug\System.Text.Encoding.CodePages.dll
+E:\TaiLieu\NoSQL\KHTT\KHTT\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\TaiLieu\NoSQL\KHTT\KHTT\bin\Debug\ZstdSharp.dll
+E:\TaiLieu\NoSQL\KHTT\KHTT\bin\Debug\AWSSDK.Core.pdb
+E:\TaiLieu\NoSQL\KHTT\KHTT\bin\Debug\AWSSDK.Core.xml
+E:\TaiLieu\NoSQL\KHTT\KHTT\bin\Debug\AWSSDK.SecurityToken.pdb
+E:\TaiLieu\NoSQL\KHTT\KHTT\bin\Debug\AWSSDK.SecurityToken.xml
+E:\TaiLieu\NoSQL\KHTT\KHTT\bin\Debug\DnsClient.xml
+E:\TaiLieu\NoSQL\KHTT\KHTT\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\TaiLieu\NoSQL\KHTT\KHTT\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+E:\TaiLieu\NoSQL\KHTT\KHTT\bin\Debug\Microsoft.Win32.Registry.xml
+E:\TaiLieu\NoSQL\KHTT\KHTT\bin\Debug\MongoDB.Bson.xml
+E:\TaiLieu\NoSQL\KHTT\KHTT\bin\Debug\MongoDB.Driver.xml
+E:\TaiLieu\NoSQL\KHTT\KHTT\bin\Debug\MongoDB.Driver.Core.xml
+E:\TaiLieu\NoSQL\KHTT\KHTT\bin\Debug\MongoDB.Driver.Legacy.xml
+E:\TaiLieu\NoSQL\KHTT\KHTT\bin\Debug\Snappier.xml
+E:\TaiLieu\NoSQL\KHTT\KHTT\bin\Debug\System.Buffers.xml
+E:\TaiLieu\NoSQL\KHTT\KHTT\bin\Debug\System.Memory.xml
+E:\TaiLieu\NoSQL\KHTT\KHTT\bin\Debug\System.Numerics.Vectors.xml
+E:\TaiLieu\NoSQL\KHTT\KHTT\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\TaiLieu\NoSQL\KHTT\KHTT\bin\Debug\System.Security.AccessControl.xml
+E:\TaiLieu\NoSQL\KHTT\KHTT\bin\Debug\System.Security.Principal.Windows.xml
+E:\TaiLieu\NoSQL\KHTT\KHTT\bin\Debug\System.Text.Encoding.CodePages.xml
+E:\TaiLieu\NoSQL\KHTT\KHTT\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\TaiLieu\NoSQL\KHTT\KHTT\obj\Debug\KHTT.csproj.CopyComplete
+E:\TaiLieu\NoSQL\KHTT\KHTT\obj\Debug\KHTT.exe
+E:\TaiLieu\NoSQL\KHTT\KHTT\obj\Debug\KHTT.pdb
+E:\TaiLieu\NoSQL\KHTT\KHTT\obj\Debug\KHTT.KhachHang.resources
+E:\TaiLieu\NoSQL\KHTT\KHTT\obj\Debug\KHTT.LichSuMuaHang.resources
+D:\Exercise\No SQL\DoAn\KHTT\KHTT\bin\Debug\mongocrypt.dll
+D:\Exercise\No SQL\DoAn\KHTT\KHTT\bin\Debug\KHTT.exe.config
+D:\Exercise\No SQL\DoAn\KHTT\KHTT\bin\Debug\KHTT.exe
+D:\Exercise\No SQL\DoAn\KHTT\KHTT\bin\Debug\KHTT.pdb
+D:\Exercise\No SQL\DoAn\KHTT\KHTT\bin\Debug\AWSSDK.Core.dll
+D:\Exercise\No SQL\DoAn\KHTT\KHTT\bin\Debug\AWSSDK.SecurityToken.dll
+D:\Exercise\No SQL\DoAn\KHTT\KHTT\bin\Debug\DnsClient.dll
+D:\Exercise\No SQL\DoAn\KHTT\KHTT\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Exercise\No SQL\DoAn\KHTT\KHTT\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Exercise\No SQL\DoAn\KHTT\KHTT\bin\Debug\Microsoft.Win32.Registry.dll
+D:\Exercise\No SQL\DoAn\KHTT\KHTT\bin\Debug\MongoDB.Bson.dll
+D:\Exercise\No SQL\DoAn\KHTT\KHTT\bin\Debug\MongoDB.Driver.Core.dll
+D:\Exercise\No SQL\DoAn\KHTT\KHTT\bin\Debug\MongoDB.Driver.dll
+D:\Exercise\No SQL\DoAn\KHTT\KHTT\bin\Debug\MongoDB.Driver.Legacy.dll
+D:\Exercise\No SQL\DoAn\KHTT\KHTT\bin\Debug\MongoDB.Libmongocrypt.dll
+D:\Exercise\No SQL\DoAn\KHTT\KHTT\bin\Debug\SharpCompress.dll
+D:\Exercise\No SQL\DoAn\KHTT\KHTT\bin\Debug\Snappier.dll
+D:\Exercise\No SQL\DoAn\KHTT\KHTT\bin\Debug\System.Buffers.dll
+D:\Exercise\No SQL\DoAn\KHTT\KHTT\bin\Debug\System.Memory.dll
+D:\Exercise\No SQL\DoAn\KHTT\KHTT\bin\Debug\System.Numerics.Vectors.dll
+D:\Exercise\No SQL\DoAn\KHTT\KHTT\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Exercise\No SQL\DoAn\KHTT\KHTT\bin\Debug\System.Security.AccessControl.dll
+D:\Exercise\No SQL\DoAn\KHTT\KHTT\bin\Debug\System.Security.Principal.Windows.dll
+D:\Exercise\No SQL\DoAn\KHTT\KHTT\bin\Debug\System.Text.Encoding.CodePages.dll
+D:\Exercise\No SQL\DoAn\KHTT\KHTT\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Exercise\No SQL\DoAn\KHTT\KHTT\bin\Debug\ZstdSharp.dll
+D:\Exercise\No SQL\DoAn\KHTT\KHTT\bin\Debug\AWSSDK.Core.pdb
+D:\Exercise\No SQL\DoAn\KHTT\KHTT\bin\Debug\AWSSDK.Core.xml
+D:\Exercise\No SQL\DoAn\KHTT\KHTT\bin\Debug\AWSSDK.SecurityToken.pdb
+D:\Exercise\No SQL\DoAn\KHTT\KHTT\bin\Debug\AWSSDK.SecurityToken.xml
+D:\Exercise\No SQL\DoAn\KHTT\KHTT\bin\Debug\DnsClient.xml
+D:\Exercise\No SQL\DoAn\KHTT\KHTT\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Exercise\No SQL\DoAn\KHTT\KHTT\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Exercise\No SQL\DoAn\KHTT\KHTT\bin\Debug\Microsoft.Win32.Registry.xml
+D:\Exercise\No SQL\DoAn\KHTT\KHTT\bin\Debug\MongoDB.Bson.xml
+D:\Exercise\No SQL\DoAn\KHTT\KHTT\bin\Debug\MongoDB.Driver.xml
+D:\Exercise\No SQL\DoAn\KHTT\KHTT\bin\Debug\MongoDB.Driver.Core.xml
+D:\Exercise\No SQL\DoAn\KHTT\KHTT\bin\Debug\MongoDB.Driver.Legacy.xml
+D:\Exercise\No SQL\DoAn\KHTT\KHTT\bin\Debug\Snappier.xml
+D:\Exercise\No SQL\DoAn\KHTT\KHTT\bin\Debug\System.Buffers.xml
+D:\Exercise\No SQL\DoAn\KHTT\KHTT\bin\Debug\System.Memory.xml
+D:\Exercise\No SQL\DoAn\KHTT\KHTT\bin\Debug\System.Numerics.Vectors.xml
+D:\Exercise\No SQL\DoAn\KHTT\KHTT\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Exercise\No SQL\DoAn\KHTT\KHTT\bin\Debug\System.Security.AccessControl.xml
+D:\Exercise\No SQL\DoAn\KHTT\KHTT\bin\Debug\System.Security.Principal.Windows.xml
+D:\Exercise\No SQL\DoAn\KHTT\KHTT\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\Exercise\No SQL\DoAn\KHTT\KHTT\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Exercise\No SQL\DoAn\KHTT\KHTT\obj\Debug\KHTT.csproj.AssemblyReference.cache
+D:\Exercise\No SQL\DoAn\KHTT\KHTT\obj\Debug\KHTT.csproj.SuggestedBindingRedirects.cache
+D:\Exercise\No SQL\DoAn\KHTT\KHTT\obj\Debug\KHTT.exe.config
+D:\Exercise\No SQL\DoAn\KHTT\KHTT\obj\Debug\KHTT.KhachHang.resources
+D:\Exercise\No SQL\DoAn\KHTT\KHTT\obj\Debug\KHTT.LichSuMuaHang.resources
+D:\Exercise\No SQL\DoAn\KHTT\KHTT\obj\Debug\KHTT.Properties.Resources.resources
+D:\Exercise\No SQL\DoAn\KHTT\KHTT\obj\Debug\KHTT.SanPham.resources
+D:\Exercise\No SQL\DoAn\KHTT\KHTT\obj\Debug\KHTT.csproj.GenerateResource.cache
+D:\Exercise\No SQL\DoAn\KHTT\KHTT\obj\Debug\KHTT.csproj.CoreCompileInputs.cache
+D:\Exercise\No SQL\DoAn\KHTT\KHTT\obj\Debug\KHTT.csproj.CopyComplete
+D:\Exercise\No SQL\DoAn\KHTT\KHTT\obj\Debug\KHTT.exe
+D:\Exercise\No SQL\DoAn\KHTT\KHTT\obj\Debug\KHTT.pdb

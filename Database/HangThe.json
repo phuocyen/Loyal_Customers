@@ -1,0 +1,59 @@
+[
+  {
+      "MaThe": "01",
+      "HangThe": "Thẻ Vàng",
+      
+      "UuDai": [
+        {
+          "Ten": "Giảm giá 15%",
+          "MucUuDai": 15
+        },
+        {
+          "Ten": "Giảm 100k phí vận chuyển",
+          "MucUuDai": 100000
+        }
+      ]
+  },
+  {
+      "MaThe": "02",
+      "HangThe": "Thẻ Bạc",
+      "UuDai": [
+        {
+          "Ten": "Giảm giá 10%",
+          "MucUuDai": 10
+        },
+        {
+          "Ten": "Giảm 50k phí vận chuyển",
+          "MucUuDai": 50000
+        }
+      ]},
+  {
+      "MaThe": "03",
+      "HangThe": "Thẻ Thường",
+      "UuDai": [
+        {
+          "Ten": "Giảm giá 0%",
+          "MucUuDai": 0
+        },
+        {
+          "Ten": "Không miễn phí vận chuyển",
+          "MucUuDai": 0
+        }
+      ]
+    },
+   {
+      "MaThe": "04",
+      "HangThe": "Thẻ Bạch Kim",
+      
+      "UuDai": [
+        {
+          "Ten": "Giảm giá 25%",
+          "MucUuDai": 25
+        },
+        {
+          "Ten": "Miễn phí vận chuyển",
+          "MucUuDai": 0
+        }
+      ]
+    }
+]

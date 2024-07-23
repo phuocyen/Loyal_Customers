@@ -1,0 +1,946 @@
+[
+  {
+    "MaDonHang": "DH001",
+    "NgayDat": "2023-10-03",
+    "ThanhTien": 5000000,
+    "TheThanhVien": {
+      "MaThe": "TV001",
+      "HangThe": "Thẻ Vàng",
+      "NgayLap": "2023-09-15",
+      "NgayHetHan": "2024-09-15",
+      "UuDai": [
+        {
+          "Ten": "Giảm giá 15%",
+          "MucUuDai": 15
+        },
+        {
+          "Ten": "Giảm 100k phí vận chuyển",
+          "MucUuDai": 100000
+        }
+      ]
+    },
+    "KhachHang": {
+      "HoTen": "Nguyễn Văn A",
+    "SDT": "0123456780",
+    "NgaySinh": "1990-01-01",
+    "GioiTinh": "Nam",
+    "DiaChi": "123 Đường ABC, Quận XYZ, Thành phố HCM"
+    },
+    "SanPham": [
+      {
+        "MaSP": "SP001",
+        "TenSP": "Máy giặt Toshiba Inverter 10.5 kg",
+        "DonViTinh":"Cái",
+        "SoLuong": 2,
+        "DonGia": 2500000
+      },
+      {
+        "MaSP": "SP002",
+        "TenSP": "Máy giặt Hitachi Inverter cửa trước",
+        "DonViTinh":"Cái",
+        "SoLuong": 3,
+        "DonGia": 1000000
+      }
+    ],
+    "DanhGia": {
+      "ThangDiem": 4.5,
+      "NhanXet": "Sản phẩm tốt"
+    },
+    "NhanVien": {
+      "MaNV": "NV001",
+      "TenNV": "Phước Yến",
+      "ChucVu": "Nhân viên thu ngân",
+      "User": "yen123",
+      "Pass": "123",
+      "SoDT": "0912345678",
+      "DiaChi": "Nha Trang"
+    }
+  },
+  {
+    "MaDonHang": "DH002",
+    "NgayDat": "2023-10-04",
+    "ThanhTien": 3200000,
+    "TheThanhVien": {
+      "MaThe": "TV002",
+      "HangThe": "Thẻ Bạc",
+      "NgayLap": "2023-08-20",
+      "NgayHetHan": "2024-08-20",
+      "UuDai": [
+        {
+          "Ten": "Giảm giá 10%",
+          "MucUuDai": 10
+        },
+        {
+          "Ten": "Giảm 50k phí vận chuyển",
+          "MucUuDai": 50000
+        }
+      ]
+    },
+    "KhachHang": {
+      "HoTen": "Trần Thị Bình",
+      "SDT": "0987654321",
+      "NgaySinh": "1985-05-15",
+      "GioiTinh": "Nữ",
+      "DiaChi": "456 Đường XYZ, Quận Hoàn Kiếm, Thành phố Hà Nội"
+    },
+    "SanPham": [
+      {
+        "MaSP": "SP003",
+        "TenSP": "Máy giặt Toshiba Inverter 13 kg ",
+      "DonViTinh":"Cái",
+        "SoLuong": 5,
+        "DonGia": 10200000
+      },
+      {
+        "MaSP": "SP004",
+            "TenSP": "Máy giặt Beko Inverter 8kg WCV8614XB0STS",
+          "DonViTinh":"Cái",
+        "SoLuong": 2,
+        "DonGia": 6500000
+      }
+    ],
+    "DanhGia": {
+      "ThangDiem": 4.0,
+      "NhanXet": "Sản phẩm tốt, nhưng giao hàng chậm"
+    },
+    "NhanVien": {
+      "MaNV": "NV002",
+      "TenNV": "Nguyễn Thị My",
+      "ChucVu": "Nhân viên thu ngân",
+      "User": "cathy123",
+      "Pass": "456",
+      "SoDT": "0987123456",
+      "DiaChi": "Đà Nẵng"
+    }
+  },
+  {
+    "MaDonHang": "DH003",
+    "NgayDat": "2023-10-05",
+    "ThanhTien": 7500000,
+    "TheThanhVien": {
+      "MaThe": "TV003",
+      "HangThe": "Thẻ Vàng",
+      "NgayLap": "2023-09-01",
+      "NgayHetHan": "2024-09-01",
+      "UuDai": [
+        {
+          "Ten": "Giảm giá 15%",
+          "MucUuDai": 15
+        },
+        {
+          "Ten": "Giảm 100k phí vận chuyển",
+          "MucUuDai": 100000
+        }
+      ]
+    },
+    "KhachHang": {
+      "HoTen": "Lê Văn Minh",
+      "SDT": "0934567892",
+      "NgaySinh": "1988-11-20",
+      "GioiTinh": "Nam",
+      "DiaChi": "789 Đường Nguyễn Du, Quận 1, Thành phố HCM"
+    },
+    "SanPham": [
+      {
+        "MaSP": "SP001",
+            "TenSP": "Máy giặt Toshiba Inverter 10.5 kg TW-BK115G4V(MG)",
+            "DonViTinh":"Cái",
+        "SoLuong": 4,
+        "DonGia": 2500000
+      },
+      {
+        "MaSP": "SP003",
+        "TenSP": "Máy giặt Toshiba Inverter 13 kg ",
+      "DonViTinh":"Cái",
+        "SoLuong": 3,
+        "DonGia": 420000
+      }
+    ],
+    "DanhGia": {
+      "ThangDiem": 4.8,
+      "NhanXet": "Dịch vụ tốt, sản phẩm chất lượng"
+    },
+    "NhanVien": {
+      "MaNV": "NV003",
+      "TenNV": "Hồ Ngọc Bích",
+      "ChucVu": "Nhân viên thu ngân",
+      "User": "ellen123",
+      "Pass": "789",
+      "SoDT": "0934567890",
+      "DiaChi": "Hà Nội"
+    }
+  },
+  {
+    "MaDonHang": "DH004",
+    "NgayDat": "2023-10-06",
+    "ThanhTien": 2800000,
+    "TheThanhVien": {
+      "MaThe": "TV004",
+      "HangThe": "Thẻ Thường",
+      "NgayLap": "2023-08-10",
+      "NgayHetHan": "2024-08-10",
+      "UuDai": [
+        {
+          "Ten": "Giảm giá 0%",
+          "MucUuDai": 0
+        },
+        {
+          "Ten": "Không miễn phí vận chuyển",
+          "MucUuDai": 0
+        }
+      ]
+    },
+    "KhachHang": {
+      "HoTen": "Nguyễn Thị Duyên",
+      "SDT": "0765432103",
+      "NgaySinh": "1982-04-25",
+      "GioiTinh": "Nữ",
+      "DiaChi": "567 Đường LMN, Quận Hoàng Mai, Thành phố HCM"
+    },
+    "SanPham": [
+      {
+        "MaSP": "SP002",
+            "TenSP": "Máy giặt Hitachi Inverter cửa trước  ",
+            "DonViTinh":"Cái",
+        "SoLuong": 5,
+        "DonGia": 1000000
+      },
+      {
+        "MaSP": "SP004",
+        "TenSP": "Máy giặt Beko Inverter 8kg WCV8614XB0STS",
+      "DonViTinh":"Cái",
+        "SoLuong": 2,
+        "DonGia": 650000
+      }
+    ],
+    "DanhGia": {
+      "ThangDiem": 3.5,
+      "NhanXet": "Sản phẩm bình thường"
+    },
+    "NhanVien": {
+      "MaNV": "NV001",
+      "TenNV": "Mai Nguyễn Phước Yến",
+      "ChucVu": "Nhân viên thu ngân",
+      "User": "yen123",
+      "Pass": "123",
+      "SoDT": "0912345678",
+      "DiaChi": "Nha Trang"
+    }
+  },
+  {
+    "MaDonHang": "DH005",
+    "NgayDat": "2023-10-07",
+    "ThanhTien": 6200000,
+    "TheThanhVien": {
+      "MaThe": "TV005",
+      "HangThe": "Thẻ Vàng",
+      "NgayLap": "2023-07-05",
+      "NgayHetHan": "2024-07-05",
+      "UuDai": [
+        {
+          "Ten": "Giảm giá 15%",
+          "MucUuDai": 15
+        },
+        {
+          "Ten": "Giảm 100k phí vận chuyển",
+          "MucUuDai": 100000
+        }
+      ]
+    },
+    "KhachHang": {
+      "HoTen": "Trần Văn Hùng",
+      "SDT": "0876543214",
+      "NgaySinh": "1980-03-10",
+      "GioiTinh": "Nam",
+      "DiaChi": "678 Đường DEF, Quận 3, Thành phố HCM"
+    },
+    "SanPham": [
+      {
+        "MaSP": "SP001",
+        "TenSP": "Máy giặt Toshiba Inverter 10.5 kg TW-BK115G4V(MG)",
+        "DonViTinh":"Cái",
+        "SoLuong": 3,
+        "DonGia": 2500000
+      },
+      {
+        "MaSP": "SP003",
+            "TenSP": "Máy giặt Toshiba Inverter 13 kg ",
+          "DonViTinh":"Cái",
+        "SoLuong": 4,
+        "DonGia": 420000
+      },
+      {
+        "MaSP": "SP007",
+        "TenSP": "Máy giặt Beko 9kg WCV9614XB0STS",
+        "DonViTinh":"Cái",
+        "SoLuongTon": 100,
+        "DonGia": 7500000
+    }
+    ],
+    "DanhGia": {
+      "ThangDiem": 4.2,
+      "NhanXet": "Sản phẩm tốt, nhưng cần cải thiện dịch vụ giao hàng"
+    },
+    "NhanVien": {
+      "MaNV": "NV006",
+      "TenNV": "Lê Huỳnh Phúc",
+      "ChucVu": "Quản lý",
+      "User": "phuc123",
+      "Pass": "123",
+      "SoDT": "0987123456",
+      "DiaChi": "Hà Nội"
+    }
+  },
+  {
+    "MaDonHang": "DH006",
+    "NgayDat": "2023-10-08",
+    "ThanhTien": 4500000,
+    "TheThanhVien": {
+      "MaThe": "TV006",
+      "HangThe": "Thẻ Vàng",
+      "NgayLap": "2023-06-10",
+      "NgayHetHan": "2024-06-10",
+      "UuDai": [
+        {
+          "Ten": "Giảm giá 15%",
+          "MucUuDai": 15
+        },
+        {
+          "Ten": "Giảm 100k phí vận chuyển",
+          "MucUuDai": 100000
+        }
+      ]
+    },
+    "KhachHang": {
+      "HoTen": "Phạm Văn Khôi",
+      "SDT": "0987123455",
+      "NgaySinh": "1983-09-20",
+      "GioiTinh": "Nam",
+      "DiaChi": "789 Đường GHI, Quận Tây Hồ, Thành phố Hà Nội"
+    },
+    "SanPham": [
+      {
+        "MaSP": "SP007",
+        "TenSP": "Máy giặt Beko 9kg WCV9614XB0STS",
+        "DonViTinh":"Cái",
+        "SoLuong": 1,
+        "DonGia": 1000000
+      },
+      {
+        "MaSP": "SP008",
+        "TenSP": "Máy giặt Hitachi 25kg SF-250ZFVAD SS",
+      "DonViTinh":"Cái",
+        "SoLuong": 2,
+        "DonGia": 650000
+      },
+      {
+        "MaSP": "SP009",
+        "TenSP": "Máy giặt cửa trên Panasonic 8,2 kg NA-F82Y01DRV",
+      "DonViTinh":"Cái",
+        "SoLuong": 1,
+        "DonGia": 5890000
+      },
+      {
+        "MaSP": "SP010",
+            "TenSP": "Máy giặt Hitachi 10kg BD-100GV",
+          "DonViTinh":"Cái",
+        "SoLuong": 1,
+        "DonGia": 17500000
+      },
+      {
+        "MaSP": "SP011",
+        "TenSP": "Điều hòa Panasonic Inverter 1 HP",
+      "DonViTinh":"Cái",
+        "SoLuong": 3,
+        "DonGia": 14500000
+      }
+    ],
+    "DanhGia": {
+      "ThangDiem": 4.0,
+      "NhanXet": "Sản phẩm chất lượng"
+    },
+    "NhanVien": {
+      "MaNV": "NV006",
+      "TenNV": "Lê Huỳnh Phúc",
+      "ChucVu": "Quản lý",
+      "User": "phuc123",
+      "Pass": "123",
+      "SoDT": "0987123456",
+      "DiaChi": "Hà Nội"
+    }
+  },
+  {
+    "MaDonHang": "DH007",
+    "NgayDat": "2023-10-09",
+    "ThanhTien": 9200000,
+    "TheThanhVien": {
+      "MaThe": "TV007",
+      "HangThe": "Thẻ Thường",
+      "NgayLap": "2023-07-25",
+      "NgayHetHan": "2024-07-25",
+      "UuDai": [
+        {
+          "Ten": "Giảm giá 0%",
+          "MucUuDai": 0
+        },
+        {
+          "Ten": "Không miễn phí vẫn chuyển",
+          "MucUuDai": 0
+        }
+      ]
+    },
+    "KhachHang": {
+      "HoTen": "Nguyễn Thị My",
+      "SDT": "0912345676",
+      "NgaySinh": "1975-12-05",
+      "GioiTinh": "Nữ",
+      "DiaChi": "890 Đường Nguyễn Du, Quận 1, Thành phố HCM"
+    },
+    "SanPham": [
+      {
+        "MaSP": "SP001",
+        "TenSP": "Máy giặt Toshiba Inverter 10.5 kg TW-BK115G4V(MG)",
+        "DonViTinh":"Cái",
+        "SoLuong": 2,
+        "DonGia": 15000000
+      },
+      {
+        "MaSP": "SP003",
+            "TenSP": "Máy giặt Toshiba Inverter 13 kg ",
+          "DonViTinh":"Cái",
+        "SoLuong": 2,
+        "DonGia": 10200000
+      }
+    ],
+    "DanhGia": {
+      "ThangDiem": 4.7,
+      "NhanXet": "Dịch vụ rất tốt, sản phẩm đẹp"
+    },
+    "NhanVien": {
+      "MaNV": "NV007",
+      "TenNV": "Trương Thành Trung",
+      "ChucVu": "Quản lý",
+      "User": "trung",
+      "Pass": "456",
+      "SoDT": "0912345578",
+      "DiaChi": "Hà Nội"
+    }
+  },
+  {
+    "MaDonHang": "DH008",
+    "NgayDat": "2023-10-10",
+    "ThanhTien": 7500000,
+    "TheThanhVien": {
+      "MaThe": "TV008",
+      "HangThe": "Thẻ Bạc",
+      "NgayLap": "2023-08-10",
+      "NgayHetHan": "2024-08-10",
+      "UuDai": [
+        {
+          "Ten": "Giảm giá 10%",
+          "MucUuDai": 10
+        },
+        {
+          "Ten": "Giảm 50k phí vận chuyển",
+          "MucUuDai": 0
+        }
+      ]
+    },
+    "KhachHang": {
+      "HoTen": "Trần Thị Linh",
+      "SDT": "0876543217",
+      "NgaySinh": "1985-05-15",
+      "GioiTinh": "Nữ",
+      "DiaChi": "678 Đường XYZ, Quận Hoàn Kiếm, Thành phố Hà Nội"
+    },
+    "SanPham": [
+      {
+        "MaSP": "SP009",
+        "TenSP": "Máy giặt cửa trên Panasonic 8,2 kg NA-F82Y01DRV",
+      "DonViTinh":"Cái",
+        "SoLuong": 1,
+        "DonGia": 5890000
+      },
+      {
+        "MaSP": "SP010",
+        "TenSP": "Máy giặt Hitachi 10kg BD-100GV",
+      "DonViTinh":"Cái",
+        "SoLuong": 1,
+        "DonGia": 17500000
+      }
+    ],
+    "DanhGia": {
+      "ThangDiem": 4.2,
+      "NhanXet": "Sản phẩm tốt, nhưng cần cải thiện dịch vụ giao hàng"
+    },
+    "NhanVien": {
+      "MaNV": "NV008",
+      "TenNV": "Mai Nguyễn Phước Yến",
+      "ChucVu": "Nhân viên thu ngân",
+      "User": "yen123",
+      "Pass": "123",
+      "SoDT": "0912345678",
+      "DiaChi": "Nha Trang"
+    }
+  },
+  {
+    "MaDonHang": "DH009",
+    "NgayDat": "2023-10-11",
+    "ThanhTien": 5900000,
+    "TheThanhVien": {
+      "MaThe": "TV009",
+      "HangThe": "Thẻ Vàng",
+      "NgayLap": "2023-09-01",
+      "NgayHetHan": "2024-09-01",
+      "UuDai": [
+        {
+          "Ten": "Giảm giá 15%",
+          "MucUuDai": 15
+        },
+        {
+          "Ten": "Giảm 100k phí vận chuyển",
+          "MucUuDai": 100000
+        }
+      ]
+    },
+    "KhachHang": {
+      "HoTen": "Lê Văn Nam",
+      "SDT": "0934567898",
+      "NgaySinh": "1988-11-20",
+      "GioiTinh": "Nam",
+      "DiaChi": "789 Đường MNO, Quận PQR, Thành phố HCM"
+    },
+    "SanPham": [
+      {
+        "MaSP": "SP017",
+        "TenSP": "Điều hòa Daikin Inverter 9000 BTU",
+      "DonViTinh":"Cái",
+        "SoLuong": 2,
+        "DonGia": 380000
+      },
+      {
+        "MaSP": "SP018",
+            "TenSP": "Điều hòa Panasonic Inverter 9000",
+          "DonViTinh":"Cái",
+        "SoLuong": 2,
+        "DonGia": 350000
+      },
+      {
+        "MaSP": "SP015",
+        "TenSP": "Điều hòa Panasonic Inverter 1.5 HP",
+      "DonViTinh":"Cái",
+        "SoLuong": 10,
+        "DonGia": 700000
+      },
+      {
+        "MaSP": "SP016",
+        "TenSP": "Điều hòa Samsung Inverter 2 HP",
+      "DonViTinh":"Cái",
+        "SoLuong": 3,
+        "DonGia": 480000
+      }
+    ],
+    "DanhGia": {
+      "ThangDiem": 4.8,
+      "NhanXet": "Dịch vụ nhanh chóng, sản phẩm chất lượng"
+    },
+    "NhanVien": {
+      "MaNV": "NV007",
+      "TenNV": "Trương Thành Trung",
+      "ChucVu": "Quản lý",
+      "User": "trung",
+      "Pass": "456",
+      "SoDT": "0912345578",
+      "DiaChi": "Hà Nội"
+    }
+  },
+  {
+    "MaDonHang": "DH010",
+    "NgayDat": "2023-10-12",
+    "ThanhTien": 3200000,
+    "TheThanhVien": {
+      "MaThe": "TV010",
+      "HangThe": "Thẻ Bạc",
+      "NgayLap": "2023-08-20",
+      "NgayHetHan": "2024-08-20",
+      "UuDai": [
+        {
+          "Ten": "Giảm giá 10%",
+          "MucUuDai": 10
+        },
+        {
+          "Ten": "Giảm 50k phí vận chuyển",
+          "MucUuDai": 50000
+        }
+      ]
+    },
+    "KhachHang": {
+      "HoTen": "Nguyễn Thị Lan",
+      "SDT": "0766632109",
+      "NgaySinh": "1992-07-12",
+      "GioiTinh": "Nữ",
+      "DiaChi": "456 Đường JKL, Quận Đống Đa, Thành phố Hà Nội"
+    },
+    "SanPham": [
+      {
+        "MaSP": "SP022",
+        "TenSP": "Tủ lạnh Beko ngăn đá trên 401 lít",
+      "DonViTinh":"Cái",
+        "SoLuong": 2,
+        "DonGia": 9800000
+      },
+      {
+        "MaSP": "SP024",
+    "TenSP": "Tủ Lạnh Samsung Optimal Fresh+",
+  "DonViTinh":"Cái",
+        "SoLuong": 4,
+        "DonGia": 5700000
+      }
+    ],
+    "DanhGia": {
+      "ThangDiem": 4.0,
+      "NhanXet": "Sản phẩm chất lượng"
+    },
+    "NhanVien": {
+      "MaNV": "NV010",
+      "TenNV": "Phạm Văn Giang",
+      "ChucVu": "Nhân viên thu ngân",
+      "User": "giang",
+      "Pass": "456",
+      "SoDT": "0765432109",
+      "DiaChi": "Hà Nội"
+    }
+  },
+  {
+    "MaDonHang": "DH011",
+    "NgayDat": "2023-10-13",
+    "ThanhTien": 4200000,
+    "TheThanhVien": {
+      "MaThe": "TV011",
+      "HangThe": "Thẻ Bạch Kim",
+      "NgayLap": "2023-09-05",
+      "NgayHetHan": "2024-09-05",
+      "UuDai": [
+        {
+          "Ten": "Giảm giá 25%",
+          "MucUuDai": 25
+        },
+        {
+          "Ten": "Miễn phí vận chuyển",
+          "MucUuDai": 0
+        }
+      ]
+    },
+    "KhachHang": {
+      "HoTen": "Trần Văn Khôi",
+      "SDT": "0987654311",
+      "NgaySinh": "1993-12-10",
+      "GioiTinh": "Nam",
+      "DiaChi": "789 Đường PQR, Quận 7, Thành phố HCM"
+    },
+    "SanPham": [
+      {
+        "MaSP": "SP026",
+        "TenSP": "Tủ Lạnh Samsung 4 Cửa Beverage",
+      "DonViTinh":"Cái",
+        "SoLuong": 2,
+        "DonGia": 5000000
+      },
+      {
+        "MaSP": "SP028",
+        "TenSP": "Tủ lạnh Panasonic Inverter 255 lít",
+      "DonViTinh":"Cái",
+        "SoLuong": 1,
+        "DonGia": 87900000
+      }
+    ],
+    "DanhGia": {
+      "ThangDiem": 4.3,
+      "NhanXet": "Sản phẩm tốt, giao hàng nhanh chóng"
+    },
+    "NhanVien": {
+      "MaNV": "NV007",
+      "TenNV": "Trương Thành Trung",
+      "ChucVu": "Quản lý",
+      "User": "trung",
+      "Pass": "456",
+      "SoDT": "0912345578",
+      "DiaChi": "Hà Nội"
+    }
+    
+  },
+  {
+    "MaDonHang": "DH012",
+    "NgayDat": "2023-09-13",
+    "ThanhTien": 4200000,
+    "TheThanhVien": {
+      "MaThe": "TV011",
+      "HangThe": "Thẻ Bạch Kim",
+      "NgayLap": "2023-09-05",
+      "NgayHetHan": "2024-09-05",
+      "UuDai": [
+        {
+          "Ten": "Giảm giá 25%",
+          "MucUuDai": 25
+        },
+        {
+          "Ten": "Miễn phí vận chuyển",
+          "MucUuDai": 0
+        }
+      ]
+    },
+    "KhachHang": {
+      "HoTen": "Trần Văn Khôi",
+      "SDT": "0987654311",
+      "NgaySinh": "1993-12-10",
+      "GioiTinh": "Nam",
+      "DiaChi": "789 Đường PQR, Quận 7, Thành phố HCM"
+    },
+    "SanPham": [
+      {
+        "MaSP": "SP027",
+  "TenSP": "Tủ lạnh thông minh Toshiba GR",
+"DonViTinh":"Cái",
+        "SoLuong": 2,
+        "DonGia": 5600000
+      },
+      {
+        "MaSP": "SP028",
+        "TenSP": "Tủ lạnh Panasonic Inverter 255 lít",
+      "DonViTinh":"Cái",
+        "SoLuong": 1,
+        "DonGia": 87900000
+      }
+    ],
+    "DanhGia": {
+      "ThangDiem": 4.3,
+      "NhanXet": "Sản phẩm tốt, giao hàng nhanh chóng"
+    },
+    "NhanVien": {
+      "MaNV": "NV007",
+      "TenNV": "Trương Thành Trung",
+      "ChucVu": "Quản lý",
+      "User": "trung",
+      "Pass": "456",
+      "SoDT": "0912345578",
+      "DiaChi": "Hà Nội"
+    }
+  },
+
+  {
+    "MaDonHang": "DH013",
+    "NgayDat": "2023-11-04",
+    "ThanhTien": 4350000,
+    "TheThanhVien": {
+      "MaThe": "TV012",
+      "HangThe": "Thẻ Bạch Kim",
+      "NgayLap": "2023-09-05",
+      "NgayHetHan": "2024-09-05",
+      "UuDai": [
+        {
+          "Ten": "Giảm giá 25%",
+          "MucUuDai": 25
+        },
+        {
+          "Ten": "Miễn phí vận chuyển",
+          "MucUuDai": 0
+        }
+      ]
+    },
+    "KhachHang": {
+      "HoTen": "Võ Hương Quỳnh",
+      "SDT": "0987114366",
+      "NgaySinh": "1999-07-13",
+      "GioiTinh": "Nữ",
+      "DiaChi": "23 Đường PQR, Quận 7, Thành phố HCM"
+    },
+    "SanPham": [
+      {
+        "MaSP": "SP027",
+  "TenSP": "Tủ lạnh thông minh Toshiba GR",
+"DonViTinh":"Cái",
+        "SoLuong": 2,
+        "DonGia": 5600000
+      },
+      {
+        "MaSP": "SP032",
+  "TenSP": "Smart Tivi Samsung 98 in",
+"DonViTinh":"Cái",
+        "SoLuong": 3,
+        "DonGia": 5400000
+      }
+    ],
+    "DanhGia": {
+      "ThangDiem": 4.3,
+      "NhanXet": "Sản phẩm tốt, giao hàng nhanh chóng"
+    },
+    "NhanVien": {
+      "MaNV": "NV007",
+      "TenNV": "Trương Thành Trung",
+      "ChucVu": "Quản lý",
+      "User": "trung",
+      "Pass": "456",
+      "SoDT": "0912345578",
+      "DiaChi": "Hà Nội"
+    }
+  },
+
+  
+  {
+    "MaDonHang": "DH014",
+    "NgayDat": "2023-11-09",
+    "ThanhTien": 524500000,
+    "TheThanhVien": {
+      "MaThe": "TV013",
+      "HangThe": "Thẻ Vàng",
+      "NgayLap": "2023-09-05",
+      "NgayHetHan": "2024-09-05",
+      "UuDai": [
+        {
+          "Ten": "Giảm giá 20%",
+          "MucUuDai": 20
+        },
+        {
+          "Ten": "Giảm 100k phí vận chuyển",
+          "MucUuDai": 100000       }
+      ]
+    },
+    "KhachHang": {
+      "HoTen": "Lê Tô Tô",
+      "SDT": "0987622399",
+      "NgaySinh": "1995-10-10",
+      "GioiTinh": "Nữ",
+      "DiaChi": "543 Đường PQR, Quận Tân Bình, Thành phố HCM"
+    },
+    "SanPham": [
+      {
+        "MaSP": "SP029",
+        "TenSP": "Smart Tivi Samsung 50 inch QLED",
+      "DonViTinh":"Cái",
+        "SoLuongTon": 1,
+        "DonGia": 8400000
+      },
+      {
+        "MaSP": "SP030",
+        "TenSP": "Smart Tivi Samsung 55 inch QLED",
+      "DonViTinh":"Cái",
+        "SoLuongTon": 1,
+        "DonGia": 23400000
+      },
+      {
+        "MaSP": "SP031",
+        "TenSP": "Xiaomi Google Tivi 4K 65 in",
+      "DonViTinh":"Cái",
+        "SoLuongTon": 1,
+        "DonGia": 54900000
+      },
+      {
+        "MaSP": "SP032",
+        "TenSP": "Smart Tivi Samsung 98 in",
+      "DonViTinh":"Cái",
+        "SoLuongTon": 1,
+        "DonGia": 5400000
+      },
+      {
+        "MaSP": "SP033",
+        "TenSP": "Xiaomi Google Tivi 4K 43 inch 43A",
+      "DonViTinh":"Cái",
+        "SoLuongTon": 2,
+        "DonGia": 5400000
+      },
+      {
+        "MaSP": "SP034",
+        "TenSP": "Smart Tivi Samsung 75 inch QLED",
+      "DonViTinh":"Cái",
+        "SoLuongTon": 1,
+        "DonGia": 23100000
+      }
+    ],
+    "DanhGia": {
+      "ThangDiem": 4.3,
+      "NhanXet": "Sản phẩm tốt, giao hàng nhanh chóng"
+    },
+    "NhanVien": {
+      "MaNV": "NV007",
+      "TenNV": "Trương Thành Trung",
+      "ChucVu": "Quản lý",
+      "User": "trung",
+      "Pass": "456",
+      "SoDT": "0912345578",
+      "DiaChi": "Hà Nội"
+    }
+  },
+
+  {
+    "MaDonHang": "DH015",
+    "NgayDat": "2023-11-10",
+    "ThanhTien": 499000000,
+    "TheThanhVien": {
+      "MaThe": "TV013",
+      "HangThe": "Thẻ Vàng",
+      "NgayLap": "2023-09-05",
+      "NgayHetHan": "2024-09-05",
+      "UuDai": [
+        {
+          "Ten": "Giảm giá 20%",
+          "MucUuDai": 20
+        },
+        {
+          "Ten": "Giảm 100k phí vận chuyển",
+          "MucUuDai": 100000       }
+      ]
+    },
+    "KhachHang": {
+      "HoTen": "Lê Tô Tô",
+      "SDT": "0987622399",
+      "NgaySinh": "1995-10-10",
+      "GioiTinh": "Nữ",
+      "DiaChi": "543 Đường PQR, Quận Tân Bình, Thành phố HCM"
+    },
+    "SanPham": [
+      {
+        "MaSP": "SP019",
+        "TenSP": "Tủ lạnh Beko ngăn đá trên 401 lít",
+      "DonViTinh":"Cái",
+        "SoLuongTon": 1,
+        "DonGia": 19730000
+    },
+{
+        "MaSP": "SP020",
+        "TenSP": "Tủ lạnh Toshiba ngăn đá trên 253 lít",
+      "DonViTinh":"Cái",
+        "SoLuongTon": 1,
+        "DonGia": 35600000
+    },
+    {
+      "MaSP": "SP021",
+      "TenSP": "Tủ lạnh Beko ngăn đá trên 231 lít",
+    "DonViTinh":"Cái",
+      "SoLuongTon": 1,
+      "DonGia": 54980000
+  },
+  {
+    "MaSP": "SP022",
+    "TenSP": "Tủ lạnh Beko ngăn đá trên 401 lít",
+  "DonViTinh":"Cái",
+    "SoLuongTon": 1,
+    "DonGia": 9800000
+  }
+    ],
+    "DanhGia": {
+      "ThangDiem": 4.3,
+      "NhanXet": "Sản phẩm tốt, giao hàng nhanh chóng"
+    },
+    "NhanVien": {
+      "MaNV": "NV007",
+      "TenNV": "Trương Thành Trung",
+      "ChucVu": "Quản lý",
+      "User": "trung",
+      "Pass": "456",
+      "SoDT": "0912345578",
+      "DiaChi": "Hà Nội"
+    }
+  }
+
+
+]
